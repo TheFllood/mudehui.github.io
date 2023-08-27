@@ -15,3 +15,9 @@ News
 
 Publications 
 ======
+
+Experience
+======
+
+Education
+======
