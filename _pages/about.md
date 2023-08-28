@@ -19,8 +19,9 @@ News
 
 Publications 
 ======
-+ Unifying Layout Generation With a Decoupled Diffusion Model
-Mude Hui, Zhizheng Zhang, Xiaoyi Zhang, Wenxuan Xie, Yuwang Wang, Yan Lu; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, pp. 1942-1951
++ Unifying Layout Generation With a Decoupled Diffusion Model  
+Mude Hui, Zhizheng Zhang, Xiaoyi Zhang, Wenxuan Xie, Yuwang Wang, Yan Lu;  
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, pp. 1942-1951
 
 Experience
 ======
