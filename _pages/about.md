@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a Ph.D student in computer science at University of California, Santa Cruz. My adviser is Prof. Cihang Xie. My research interest is on deep learning, computer vision and generative models.
+Hi! I’m a Ph.D student in computer science at University of California, Santa Cruz advised by [Prof. Yuyin Zhou](https://yuyinzhou.github.io/) and [Prof. Cihang Xie](https://cihangxie.github.io/). My research interest is on deep learning, computer vision and generative models.
 
 News
 ======
