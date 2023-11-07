@@ -107,8 +107,8 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           : "https://steamcommunity.com/profiles/76561198237101644/"
+  steam            : "https://steamcommunity.com/profiles/76561198237101644/"
+  tumblr           : 
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
@@ -220,7 +220,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "_publications"
       type: publications
     values:
       layout: single
